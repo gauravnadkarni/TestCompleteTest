@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="add" key="{CEDA873D-9941-40C8-A70B-6850BC9BAB1A}" path="add.js" />
+		<child name="subtract" key="{A367E39F-B2D3-4238-905A-39B5D80F77F5}" path="subtract.js" />
+		<child name="multiply" key="{FC9E48D0-283F-45AB-827D-9C2191A7B10F}" path="multiply.js" />
+		<child name="divide" key="{7EABD24B-4381-48E1-9062-B668995C3739}" path="divide.js" />
+	</children>
+</Root>

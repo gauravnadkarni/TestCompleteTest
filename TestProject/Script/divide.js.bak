@@ -1,0 +1,8 @@
+﻿function main() {
+  divideNumbers(30,6);
+}
+
+function divideNumbers(a,b){
+  
+  Log.Message("30/6 = "+(a/b));
+}
