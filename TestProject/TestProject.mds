@@ -8,22 +8,22 @@
 	<config language="{90F89436-9452-4F95-9882-6B5210079F13}" />
 	<testItems key="{52403CE8-640F-4DE9-975F-F8661970C462}" version="14">
 		<children>
-			<testItem name="Test login with valid credentials" key="{882C1ECE-205C-4DD6-BB1A-F4AACFA9445B}" group="False" parallel="False" enabled="True" testMoniker="{A367E39F-B2D3-4238-905A-39B5D80F77F5}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Test Arithmatic Operation - Subtraction" key="{882C1ECE-205C-4DD6-BB1A-F4AACFA9445B}" group="False" parallel="False" enabled="True" testMoniker="{A367E39F-B2D3-4238-905A-39B5D80F77F5}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />
 			</testItem>
-			<testItem name="Test Login with invalid credentials" key="{31B04F8E-5C6D-4B03-BF56-55C7165A6F07}" group="False" parallel="False" enabled="True" testMoniker="{7EABD24B-4381-48E1-9062-B668995C3739}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Test Arithmatic Operation - Division" key="{31B04F8E-5C6D-4B03-BF56-55C7165A6F07}" group="False" parallel="False" enabled="True" testMoniker="{7EABD24B-4381-48E1-9062-B668995C3739}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />
 			</testItem>
-			<testItem name="Test Login after 24hrs weeks timeout" key="{1198C47A-0A92-485C-A6C9-9CAF192696A4}" group="False" parallel="False" enabled="True" testMoniker="{FC9E48D0-283F-45AB-827D-9C2191A7B10F}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Test Arithmatic Operation - Multiplication" key="{1198C47A-0A92-485C-A6C9-9CAF192696A4}" group="False" parallel="False" enabled="True" testMoniker="{FC9E48D0-283F-45AB-827D-9C2191A7B10F}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />
 			</testItem>
-			<testItem name="Test login after session timeout" key="{0BFDF316-5F80-4E1E-9D51-E2728C108DE4}" group="False" parallel="False" enabled="True" testMoniker="{CEDA873D-9941-40C8-A70B-6850BC9BAB1A}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+			<testItem name="Test Arithmatic Operation - Addition" key="{0BFDF316-5F80-4E1E-9D51-E2728C108DE4}" group="False" parallel="False" enabled="True" testMoniker="{CEDA873D-9941-40C8-A70B-6850BC9BAB1A}main" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
 				<testParameters />
 				<environments activeCloud="CBT" />
 				<children />
